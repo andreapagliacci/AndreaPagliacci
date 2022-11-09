@@ -1,16 +1,14 @@
-### Hi there 👋
+I am a highly skilled Java Software Engineer with 10 years experience. Develop microservices architecture for scale up services with Spring Boot Cloud, Kafka, Elastic Search, Docker.
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreaPaglio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<!--
-**AndreaPaglio/AndreaPaglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on contribution app for Magnolia CMS, implementing a crawler architecture in AWS and writing article for my personal tech blog.
+- 🌱 I’m currently learning NodeJS and Data Structure & Algorithms
+- 👯 I’m looking to collaborate on Java Open Source framework intensive used
+**Framework**: Spring Boot Framework , Hibernate
+**Web development**: JSP,Javascript, JQuery, CSS, HTML5, AngularJs/Angular, Ajax 
+**Application Server:** Apache Tomcat, JBoss 
+**Database** Oracle 10g, Mysql, SQL Server Framework Hibernate, MyBatis, MongoDB
+**Version Controlling Tools**: SVN, Git 
+**Operating System**: Windows, Linux
+**Cloud**: experience hands on AWS Ec2, S3 and more
