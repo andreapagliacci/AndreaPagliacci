@@ -2,8 +2,6 @@ Full Stack Developer | Java | AWS | Docker | Angular | SQL/NoSQL Database | Sele
 
 I am a highly skilled Java Software Engineer with 10 years experience. Develop microservices architecture for scale up services with Spring Boot Cloud, Kafka, Elastic Search, Docker.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreaPaglio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 - 🔭 I’m currently working on contribution app for Magnolia CMS, implementing a crawler architecture in AWS and writing article for my personal tech blog.
 - 🌱 I’m currently learning NodeJS and Data Structure & Algorithms
 - 👯 I’m looking to collaborate on Java Open Source framework intensive used
