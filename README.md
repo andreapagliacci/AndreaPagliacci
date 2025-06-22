@@ -93,12 +93,6 @@ An all-in-one platform to help **French speakers relocate to Italy**, even witho
 
 ---
 
-## 🤝 Let's Collaborate
-
-I’m open to contributing to high-impact **Java Open Source** frameworks and developer tools that make teams more productive.
-
----
-
 ## 📬 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/andrea-pagliacci/) 
