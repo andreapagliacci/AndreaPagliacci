@@ -1,21 +1,110 @@
-## Solution Architect | Java | Spring Cloud | AWS | Docker | Angular | *SQL, MongoDB | Selenium | Magnolia CMS | Elastic Search | Kafka
+# 👋 Hi, I'm Andrea — Solution Architect & Full-Stack Developer
 
-As Software Engineer I love lateral thinking to achieve business goals in projects and see the big picture in all projects  
-In the last months, I have been designing and implementing:
+## 🚀 About Me
 
-* Content App is designed like a framework for easy integration of source with Low Code. Proof-of-Concept with integrating ElasticSearch and AWS S3 management items in Magnolia CMS.
+I’m a **Solution Architect** with 15+ years of experience designing and delivering software solutions across enterprise systems and startups.
 
-* An API that simplifies End-to-End Testing with UI, helps ensure that the user interface meets the requirements of the project, from start to finish. This API provides an easy-to-use interface for setting up a testing environment, and writing and executing tests, with a Low Code solution.
+I specialize in building **cloud-native**, **scalable** architectures using Java, Spring Cloud, AWS, Docker, and modern web technologies like **Next.js** and **Angular**.
 
-* Develop a micro-services architecture to scale up services using Spring Boot Cloud, Kafka, Elastic Search, and Docker on AWS cloud.
+I believe in **lateral thinking**, seeing the big picture, and writing code that empowers business outcomes. I'm always focused on real-world value, not just technical elegance.
 
-* I'm developing a serverless crawler architecture on AWS Cloud and creating content for my tech blog.
+---
 
-- 👯 I’m looking to collaborate on Java Open Source framework massive used
-**Framework**: Spring Boot Framework , Hibernate
-**Web development**: JSP,Javascript, JQuery, CSS, HTML5, AngularJs/Angular, Ajax 
-**Application Server:** Apache Tomcat, JBoss 
-**Database** Oracle 10g, Mysql, SQL Server Framework Hibernate, MyBatis, MongoDB
-**Version Controlling Tools**: SVN, Git 
-**Operating System**: Windows, Linux
-**Cloud**: experience hands on AWS Ec2, S3 and more
+## 🔧 What I'm Working On
+
+### 🧠 AI Assistant with Conversational Modal (RAG-style)
+
+Developed and integrated a conversational AI Assistant (formerly RAG architecture) using **vector embeddings**, **retrieval pipelines**, and **chat modals** to provide contextual help within applications.
+
+- Implemented as a **plugin system** for modular deployment  
+- Supports knowledge base ingestion, custom prompts, and multi-turn memory  
+- Deployed in SaaS admin panels and client dashboards for enhanced UX
+
+### 🕷 Serverless Web Crawler
+
+Currently developing a serverless crawler using AWS Lambda and S3, while sharing insights on my personal tech blog.
+
+### 🧩 Content Integration Framework (Magnolia CMS + Low Code)
+
+Built a flexible framework to integrate third-party sources (ElasticSearch, AWS S3) into Magnolia CMS with a Low Code approach, enabling fast delivery and extensibility.
+
+### 🧪 End-to-End Testing API
+
+Created an API that simplifies UI testing workflows with a Low Code setup — allowing teams to write, run, and manage tests with minimal friction.
+
+### ☁️ Microservices on AWS
+
+Architected and deployed microservices using **Spring Boot**, **Kafka**, **ElasticSearch**, and **Docker** on **AWS Cloud**.
+
+
+
+---
+
+## 🏗 Side Projects
+
+### ⚓ ShipNext – Build SaaS & Web Apps in Days
+
+> **Tech stack:** Next.js • Prisma • Tailwind • Stripe • Brevo • Google Meet • Strapi • DaisyUI
+
+[ShipNext](https://www.shipnext.biz) is a full-featured boilerplate that lets developers and indie hackers:
+
+- Build landing pages and blogs
+- Sell products with Stripe (SEPA, PayPal, credit card)
+- Manage webinars, events, and 1:1 appointments with Google Meet
+- Create affiliate programs, private dashboards, and more
+
+Everything is modular and admin-configurable — no need to rewrite boilerplate again.
+
+---
+
+### 🇫🇷 Expat Enablement Platform (Next.js)
+
+An all-in-one platform to help **French speakers relocate to Italy**, even without speaking Italian.
+
+🔹 Built with **Next.js** and supports:
+
+- Legal assistance (bilingual lawyers & translators)  
+- Property search and real estate negotiation  
+- Obtaining Italian **fiscal codes**
+- Personalized consulting on the best Italian regions to live
+- Full concierge service in French
+
+---
+
+## 🧰 My Tech Stack
+
+### Backend  
+`Java` | `Spring Boot / Spring Cloud` | `Hibernate` | `MyBatis` | `Kafka` | `ElasticSearch` | `REST APIs` | `Python` 
+
+### Frontend  
+`Next.js` | `React` | `Angular` | `JSP` | `HTML5 / CSS / JavaScript / JQuery` | `Tailwind CSS` | `DaisyUI`
+
+### DevOps & Cloud  
+`AWS (EC2, Lambda, S3)` | `Docker` | `Git` | `SVN` | `Tomcat` | `JBoss`
+
+### AI & Plugin Development  
+`LangChain` | `Vector Embeddings` | `Retrieval-Augmented Generation (RAG)` | `OpenAI` | `Custom Plugin Frameworks`
+
+### Database  
+`Oracle` | `MySQL` | `PostgreSQL` | `SQL Server` | `MongoDB`
+
+### Tools & CMS  
+`Magnolia CMS` | `Selenium` | `Strapi` | `Brevo (Sendinblue)` | `Stripe`
+
+---
+
+## 🤝 Let's Collaborate
+
+I’m open to contributing to high-impact **Java Open Source** frameworks and developer tools that make teams more productive.
+
+---
+
+## 📬 Contact
+
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/andrea-pagliacci/))  
+- [shipnext.biz](https://www.shipnext.biz)  
+- [Aller en Italie](https://services.allerenitalie.com)
+
+---
+
+> _“Launch fast. Think long. Build real.”_
