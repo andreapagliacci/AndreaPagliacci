@@ -101,7 +101,7 @@ I’m open to contributing to high-impact **Java Open Source** frameworks and de
 
 ## 📬 Contact
 
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/andrea-pagliacci/))  
+- [LinkedIn](https://www.linkedin.com/in/andrea-pagliacci/) 
 - [shipnext.biz](https://www.shipnext.biz)  
 - [Aller en Italie](https://services.allerenitalie.com)
 
